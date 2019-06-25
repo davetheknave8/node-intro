@@ -1,0 +1,17 @@
+{
+  "name": "node-intro",
+  "version": "1.0.0",
+  "description": "Intro to Node.",
+  "main": "index.js",
+  "dependencies": {
+    "jQuery": "^1.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
